@@ -1,4 +1,4 @@
-# RMIT-Codewords-MajorProject
+# RMIT-Codewords-MajorProject-2024
 
 In this assignment, I am tasked to research, create, code, and publish a digital creative coding interpretation of an excerpt from one of the critical texts on art and language. Creative coding involves using interactive, multimedia, and generative content in imaginative ways. As an individual, my final published project is a website hosted on GitHub.
 
